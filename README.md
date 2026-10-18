@@ -36,7 +36,7 @@ Models, terrain, sounds, images and UI layouts live in the Roblox place and aren
 
 ### AI tools (required disclosure)
 - **Claude Code** (Anthropic) helped write and debug much of the Luau code.
-- **OpenAI Codex / ChatGPT image generation** made the UI concept art and the HUD and icon art.
+- **OpenAI Codex / ChatGPT * made the planning for the game design
 
 ### Libraries used (not included here; all by their own authors)
 - [Cmdr](https://github.com/evaera/Cmdr) by evaera: admin command console
