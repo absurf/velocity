@@ -46,7 +46,3 @@ Models, terrain, sounds, images and UI layouts live in the Roblox place and aren
 - ForgeVFX: particle and VFX playback
 - Spring by bhristt: spring physics module
 - AlyaNum: number formatting
-
-### Code from before the hackathon
-- Our in-house utility modules (`AbsurfUtility`, `AbsurfTaskScheduler`, `AbsurfNetworkHandler`, `AbsurfTagHandler`, `AnimationHandler`, `AudioHandler`) were written before SwampHacks.
-- Parts of our earlier game Stardust were reused as a base. The SwampHacks organizers approved this reuse.
