@@ -1,0 +1,42 @@
+return {
+	["1"] = {
+		Image = "rbxassetid://130026146922315",
+		Size = UDim2.fromOffset(94, 80),
+		Position = UDim2.fromOffset(237, 108),
+		AnchorPoint = Vector2.new(0.5, 0.5),
+		Pixels = UDim2.fromOffset(94, 80),
+		From = "Starting",
+	},
+	["2"] = {
+		Image = "rbxassetid://82271554600291",
+		Size = UDim2.fromOffset(112, 78),
+		Position = UDim2.fromOffset(135, 109),
+		AnchorPoint = Vector2.new(0.5, 0.5),
+		Pixels = UDim2.fromOffset(112, 78),
+		From = "Starting",
+	},
+	["3"] = {
+		Image = "rbxassetid://133687234077501",
+		Size = UDim2.fromOffset(110, 76),
+		Position = UDim2.fromOffset(130, 91),
+		AnchorPoint = Vector2.new(0.5, 0.5),
+		Pixels = UDim2.fromOffset(110, 76),
+		From = "Starting",
+	},
+	Burst = {
+		Image = "rbxassetid://80672474387606",
+		Size = UDim2.fromScale(1, 1),
+		Position = UDim2.fromScale(0.5, 0.5),
+		AnchorPoint = Vector2.new(0.5, 0.5),
+		Pixels = UDim2.fromOffset(200, 196),
+		From = "Starting",
+	},
+	Go = {
+		Image = "rbxassetid://135319834845886",
+		Size = UDim2.fromOffset(234, 86),
+		Position = UDim2.fromOffset(-17, 68),
+		AnchorPoint = Vector2.new(0.5, 0.5),
+		Pixels = UDim2.fromOffset(234, 86),
+		From = "Starting",
+	},
+}
